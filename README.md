@@ -1,0 +1,2 @@
+# JoeAustin1996-Project_7_Electrical_consumption_forecast_SARIMAX
+Electrical Consumption India Dataset
